@@ -37,7 +37,7 @@
     <img src="https://assets.holopin.io/hf2025/level3.png" alt="Hacktoberfest 2025: Level 3" width="200" style="margin:10px;"/>
     <img src="https://assets.holopin.io/hf2025/level4.png" alt="Hacktoberfest 2025: Level 4" width="200" style="margin:10px;"/>
     <img src="https://assets.holopin.io/hf2025/tree.png" alt="Hacktoberfest 2025: Tree Planted" width="200" style="margin:10px;"/>
-    <img src="https://assets.holopin.io/hf2025/super.png" alt="Hacktoberfest 2025: Supercontributor" width="200" style="margin:10px;"/>
+    <img src="lvl5-human.webp" alt="Hacktoberfest 2025: Supercontributor" width="200" style="margin:10px;"/>
   </a>
 </p>
 
