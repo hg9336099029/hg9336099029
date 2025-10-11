@@ -34,9 +34,12 @@
 ## 🪙 Hacktoberfest 2025 Badges
 <p align="center">
   <a href="https://www.holopin.io/@hg9336099029" target="_blank">
-    <img src="https://assets.holopin.io/hf2025/level3.png" alt="Hacktoberfest 2025: Level 3" width="200" style="margin:10px;"/>
-    <img src="https://assets.holopin.io/hf2025/level4.png" alt="Hacktoberfest 2025: Level 4" width="200" style="margin:10px;"/>
-    <img src="https://assets.holopin.io/hf2025/tree.png" alt="Hacktoberfest 2025: Tree Planted" width="200" style="margin:10px;"/>
+    <img src="lvl0-human.webp" alt="Hacktoberfest 2025: Level 3" width="200" style="margin:10px;"/>
+    <img src="lvl1-human.webp" alt="Hacktoberfest 2025: Level 3" width="200" style="margin:10px;"/>
+    <img src="lvl2-human.webp" alt="Hacktoberfest 2025: Level 4" width="200" style="margin:10px;"/>
+    <img src="lvl3-human.webp" alt="Hacktoberfest 2025: Level 3" width="200" style="margin:10px;"/>
+    <img src="lvl4-human.webp" alt="Hacktoberfest 2025: Level 4" width="200" style="margin:10px;"/>
+    <img src="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.webp" alt="Hacktoberfest 2025: Tree Planted" width="200" style="margin:10px;"/>
     <img src="lvl5-human.webp" alt="Hacktoberfest 2025: Supercontributor" width="200" style="margin:10px;"/>
   </a>
 </p>
