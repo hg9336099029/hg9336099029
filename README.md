@@ -98,15 +98,8 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hg9336099029&icon=1&color=4" />
+  <img src="https://komarev.com/ghpvc/?username=hg9336099029&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
