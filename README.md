@@ -50,7 +50,7 @@
 | Project | Description | Tech Stack | Links |
 |----------|--------------|-------------|--------|
 | 🧾 **Social Media Content Analyzer** | Extracts & analyzes text from social media images using OCR | React.js, Node.js, MongoDB, Tailwind CSS | [🌐 Live](https://social-media-content-analyzer-one.vercel.app/) • [💻 Code](https://github.com/hg9336099029/social_media_content.analyzer) |
-| 📊 **Survey Application** | Survey creation, submission & result analysis with real-time aggregation | React.js, Node.js, MongoDB | [🌐 Live](https://survey-application-zhbz.onrender.com/) • [💻 Code](https://github.com/hg9336099029/Survey.application) |
+| 📊 **Survey Application** | Survey creation, submission & result analysis with real-time aggregation | React.js, Node.js, MongoDB | [🌐 Live](https://survey-application-eight.vercel.app/) • [💻 Code](https://github.com/hg9336099029/Survey.application) |
 
 ---
 
