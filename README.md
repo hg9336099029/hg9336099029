@@ -1,5 +1,5 @@
 <h1 align="center">💫 Hi 👋, I'm Harsh Gupta</h1>
-<h3 align="center">🚀 Full Stack Developer | Open Source Contributor | Backend Enthusiast</h3>
+<h3 align="center">🚀 Gen-AI |Mern Developer | Open Source Contributor | Backend Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:hg9336099029@gmail.com"><img src="https://img.shields.io/badge/Email-hg9336099029%40gmail.com-red?logo=gmail&logoColor=white" /></a>
@@ -27,7 +27,7 @@
 - 💼 **Full Stack Developer Intern @ TKAYA** *(May 2025 - July 2025)*  
 - 🥇 **Finalist** – *Shaastra Programming Contest, IIT Madras*  
 - 💻 **Open Source Contributions:** *Matrix.org Blog Filter, LexiBot JSON Fixes, UI Enhancements*  
-- 🌍 **Tech Stack:** JavaScript, React.js, Node.js, Express.js, PostgreSQL, MongoDB, Tailwind CSS
+- 🌍 **Tech Stack:** python, gen-ai,JavaScript, Node.js, Express.js, PostgreSQL, MongoDB, Tailwind CSS
 
 ---
 
@@ -43,14 +43,6 @@
     <img src="lvl5-human.webp" alt="Hacktoberfest 2025: Supercontributor" width="200" style="margin:10px;"/>
   </a>
 </p>
-
----
-
-## 🧠 Projects Showcase
-| Project | Description | Tech Stack | Links |
-|----------|--------------|-------------|--------|
-| 🧾 **Social Media Content Analyzer** | Extracts & analyzes text from social media images using OCR | React.js, Node.js, MongoDB, Tailwind CSS | [🌐 Live](https://social-media-content-analyzer-one.vercel.app/) • [💻 Code](https://github.com/hg9336099029/social_media_content.analyzer) |
-| 📊 **Survey Application** | Survey creation, submission & result analysis with real-time aggregation | React.js, Node.js, MongoDB | [🌐 Live](https://survey-application-eight.vercel.app/) • [💻 Code](https://github.com/hg9336099029/Survey.application) |
 
 ---
 
