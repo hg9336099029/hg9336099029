@@ -11,10 +11,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎯 **Full Stack Developer** (React.js | Node.js | Express.js | MongoDB | PostgreSQL)
-- 🔭 **Currently Working On:**  
-  `Social Media Content Analyzer` (OCR-based MERN App)  
-  `Survey Application` (Dynamic survey system with analytics)
 - 🌱 **Currently Learning:** Advanced Backend Architecture & Cloud Deployment
 - 👯 **Open Source Contributor** at **Matrix.org**, **2048**, and **JURA**
 - 💬 **Ask Me About:** React, Node, MongoDB, DSA, and Open Source
