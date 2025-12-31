@@ -1,5 +1,5 @@
 <h1 align="center">💫 Hi 👋, I'm Harsh Gupta</h1>
-<h3 align="center">🚀 Gen-AI |Mern Developer | Open Source Contributor | Backend Enthusiast</h3>
+<h3 align="center">🚀 Gen-AI |Software Engineer| Open Source Contributor | Backend Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:hg9336099029@gmail.com"><img src="https://img.shields.io/badge/Email-hg9336099029%40gmail.com-red?logo=gmail&logoColor=white" /></a>
